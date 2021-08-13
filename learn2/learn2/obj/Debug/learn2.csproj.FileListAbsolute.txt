@@ -1,0 +1,7 @@
+C:\Users\Andrei\source\repos\learn2\learn2\bin\Debug\learn2.exe.config
+C:\Users\Andrei\source\repos\learn2\learn2\bin\Debug\learn2.exe
+C:\Users\Andrei\source\repos\learn2\learn2\bin\Debug\learn2.pdb
+C:\Users\Andrei\source\repos\learn2\learn2\obj\Debug\learn2.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\learn2\learn2\obj\Debug\learn2.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\learn2\learn2\obj\Debug\learn2.exe
+C:\Users\Andrei\source\repos\learn2\learn2\obj\Debug\learn2.pdb
